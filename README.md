@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **@educourse**
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
-- 😉😉
 
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FyZm5vdGVuNHczaG54ZjFpMmYzeTNtNDU1MGlwdHVzdGR5NThpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif)
